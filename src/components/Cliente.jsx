@@ -8,11 +8,11 @@ const Cliente = ({ cliente }) => {
       </td>
       <td className="p-6">
         <p className="text-gray-600">
-          <span className="text-gray-800 uppercase font-bold">Email: </span>{" "}
+          <span className="text-gray-800 uppercase font-bold">Email: </span>
           {email}
         </p>
         <p className="text-gray-600">
-          <span className="text-gray-800 uppercase font-bold">Email: </span>{" "}
+          <span className="text-gray-800 uppercase font-bold">Tel: </span>
           {telefono}
         </p>
       </td>
